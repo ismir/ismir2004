@@ -1,0 +1,129 @@
+body {
+	
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+p,ul,li {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+TD {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+p.title {
+	margin-bottom: -10px;
+}
+p.tableheader {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #669999;
+	font-weight: bold;
+}
+p.feature {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	line-height: 13px;
+}
+a {
+	color: #B76728;
+	text-decoration: none;
+}
+a:hover {
+	color: #B76728;
+	text-decoration: underline;
+}
+a.menu {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+
+a.menuSUB {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #990000;
+	text-decoration: none;
+}
+
+a.menuselected {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+	text-decoration: none;
+}
+a.menu:hover {
+	text-decoration: none;
+	color: #669999;
+}
+
+a.menuSUB:hover {
+	text-decoration: none;
+	color: #669999;
+}
+
+a.menuselected:hover {
+	text-decoration: none;
+	color: #666666;
+}
+.abstract {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #666666;
+/*	color: #B76728;*/
+	line-height: 18px;
+/*	letter-spacing: -0.03em;*/
+}
+.footer {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+}
+.boxcontent {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+textarea {
+   text-align: left;
+   color: black;
+   font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+   font-size: 12px;
+}
+
+form {
+	margin-bottom:0; 
+}
+
+.coffee {background-color: #FFFFCC;}
+.fons {background-color: #EEFFEE;}
+.hall {background-color: #FFCC33;}
+.hallFranca {background-color: #FF9933;}
+.lunch {background-color: #FFCC99;}
+.special {background-color: #FFFF66;}
+.visit {background-color: #FFCCCC;}
+.paper {background-color: #CCFFCC;}
+.paperAula1 {background-color: #CCFF99;}
+.paperAula2 {background-color: #99CC33;}
+.tutorial {background-color: #66FFCC;}
+.keynote {background-color: #CCFFCC;}
+.pannels {background-color: #CCFFCC;}
+.posters {background-color: #FFFFCC;}
+.concert {background-color: #CCFFCC;}
+.banquet {background-color: #CCFFFF;}
+.horas {font-size: 9px;}
+.peque {font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; font-size: 9px;}
+
+
+
